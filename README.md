@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile AI enthusiast <br>i've done my integrated M.Tech in Business Analytics from vit cehnnai<br>Passionate about data science & ML <br>Open to exciting technical roles
+Versatile AI enthusiast <br>Completed integrated M.Tech in Business Analytics from vit chennai<br>Passionate about data science,ML and Automation <br>Open to exciting technical roles
 
 
 # 💻 Tech Stack:
